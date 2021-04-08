@@ -54,13 +54,13 @@
              <h2> adam małysz </h2>
 	</div>
 	<div id="nav">
-            niewiem <br />
-            <a href="Puchar.html"> puchar świata </a> <br />
-            <a href="Harnaś.html"> harnaś </a> <br />
-            <a href="Malysz.html"> małysz </a>  <br />
+            Członkowie <br />
+            <a href="xayoo.html"> puchar świata </a> <br />
+            <a href="luki.html"> Lukisteve </a> <br />
+            <a href="vys.html"> Vysotzky </a>  <br />
 	</div>		
 	<div id="content">
-            <h2>nw</h2>
+            <h2>Pogchamp</h2>
 
             <br />
             <br />
